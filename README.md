@@ -1,6 +1,6 @@
 ### boas vindas ao seu perfil 💙
 
-Meu nome é luis felipe 
+Meu nome é Luis felipe 
 
 - Estou estudando na [alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
